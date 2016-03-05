@@ -1,5 +1,6 @@
 @stp
 Feature: stpfeature
+  Description
 
   Scenario: stpscenario1
 
